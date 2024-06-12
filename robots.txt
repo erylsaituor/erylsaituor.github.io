@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erylsaituor.github.io/sitemap.html
+Sitemap: https://erylsaituor.github.io/app/sitemap.html
+Sitemap: https://erylsaituor.github.io/assets/sitemap.html
+Sitemap: https://erylsaituor.github.io/css/sitemap.html
+Sitemap: https://erylsaituor.github.io/includes/sitemap.html
+Sitemap: https://erylsaituor.github.io/item/sitemap.html
+Sitemap: https://erylsaituor.github.io/src/sitemap.html
